@@ -1,4 +1,11 @@
 <?php
+
+
+
+
+
+
+//pablo guapo
 echo"<h2>Operadores Basicos </h2><br>";
 $n1 = 10;
 $n2 = 5;
